@@ -15,6 +15,7 @@
   -->
 
 <locale name="uk_UA" full_name="Українська">
+	<message key="about.aboutContext">Про журнал</message>
 	<message key="about.aboutSite">Про сайт</message>
 	<message key="about.contact">Контактна інформація</message>
 	<message key="about.contact.email">Email</message>
@@ -32,6 +33,7 @@
 	<message key="announcement.posted">Опубліковано</message>
 	<message key="announcement.viewLink">Детальніше...</message>
 	<message key="announcement.view">Дивитися анонс</message>
+	<message key="common.tasks">Tasks</message>
 	<message key="common.action">Дія</message>
 	<message key="common.activate">Активувати</message>
 	<message key="common.active">Активні</message>
@@ -109,6 +111,7 @@
 	<message key="common.file.namingPattern">{$username}, {$originalFilename}</message>
 	<message key="common.file.anonymousNamingPattern">{$genre}, {$originalFilename}</message>
 	<message key="common.height">Висота</message>
+	<message key="common.homepageNavigationLabel">Домашня сторінка</message>
 	<message key="common.homePageHeaderLogo.altText">Логотип заголовку домашньої сторінки</message>
 	<message key="common.hour">Година</message>
 	<message key="common.id">ID</message>
@@ -147,6 +150,7 @@
 	<message key="common.preview">Попередній перегляд</message>
 	<message key="common.publisher">Видавець</message>
 	<message key="common.re">Re:</message>
+	<message key="common.readMore">Читати більше</message>
 	<message key="common.record">Запис</message>
 	<message key="common.refresh">Оновити</message>
 	<message key="common.related">Пов'язані</message>
@@ -183,6 +187,7 @@
 	<message key="common.url">URL</message>
 	<message key="common.user">Користувач</message>
 	<message key="common.view">Дивитися</message>
+	<message key="common.viewProfile">Переглянути профіль</message>
 	<message key="common.weeks">тижнів</message>
 	<message key="common.width">Ширина</message>
 	<message key="common.year">Рік</message>
@@ -258,6 +263,7 @@
 	<message key="locale.primary">Основна локалізація</message>
 	<message key="locale.supported">Локалізації, що підтримуються</message>
 	<message key="navigation.about">Про нас</message>
+	<message key="navigation.breadcrumbSeparator">/</message>
 	<message key="navigation.browse">Перегляд</message>
 	<message key="navigation.browseByTitle">За назвою</message>
 	<message key="navigation.dashboard">Панель інструментів</message>
@@ -344,6 +350,7 @@
 	<message key="form.invalidImage">Було вивантажене некоректне зображення. Дозволені формати .png, .gif або .jpg.</message>
 	<message key="navigation.access">Користувачі та ролі</message>
 	<message key="navigation.admin">Адміністрація</message>
+	<message key="navigation.archives">Архіви</message>
 	<message key="navigation.data">Дані</message>
 	<message key="navigation.settings">Налаштування</message>
 	<message key="navigation.submissions">Подання</message>
