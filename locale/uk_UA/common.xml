@@ -344,6 +344,7 @@
 	<message key="form.invalidImage">Було вивантажене некоректне зображення. Дозволені формати .png, .gif або .jpg.</message>
 	<message key="navigation.access">Користувачі та ролі</message>
 	<message key="navigation.admin">Адміністрація</message>
+	<message key="navigation.archives">Архіви</message>
 	<message key="navigation.data">Дані</message>
 	<message key="navigation.settings">Налаштування</message>
 	<message key="navigation.submissions">Подання</message>
