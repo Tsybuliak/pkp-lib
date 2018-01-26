@@ -191,5 +191,178 @@
 	<message key="grid.task.status.unfinished">Незавершені рецензії</message>
 	<message key="grid.task.status.reviewReady">Ця рецензія готова. Щоб прочитати її натисніть на зображення ліворуч.</message>
 	<message key="grid.roles.stageAssignment">Призначення стадії</message>
-	<message key="grid.action.disable">ВІдключити</message>
+	<message key="grid.action.disable">Відключити</message>
+	<message key="grid.action.details">Переглянути даний пункт </message>
+	<message key="grid.action.enrolExisting">Зареєструвати існуючого користувача в якості рецензента</message>
+	<message key="grid.action.selectCreate">Додати нового рецензента</message>
+	<message key="grid.action.search">Пошук</message>
+	<message key="grid.action.advancedSearch">Розширений Пошук</message>
+	<message key="grid.action.viewLibrary">Переглянути бібліотеку документів</message>
+	<message key="grid.action.viewMetadata">Переглянути метадані для цього подання</message>
+	<message key="grid.action.sendReminder">Надіслати нагадування про завдання цьому користувачеві</message>
+	<message key="grid.action.newRound">Створити новий раунд/message>
+	<message key="grid.action.viewReviewGuidelines">Переглянути інструкцію по рецензуванню</message>
+	<message key="grid.action.viewCompetingInterestGuidelines">Переглянути політику щодо конкуруючих інтересів</message>
+	<message key="grid.action.thankReviewer">Надіслати лист-подяку цьому рецензенту</message>
+	<message key="grid.action.uploadFile">Завантажити файл</message>
+	<message key="grid.action.addAnnouncementType">Додати тип оголошення</message>
+	<message key="grid.action.addAnnouncement">Додати оголошення</message>
+	<message key="grid.action.mergeUser">Об'єднати користувача</message>
+	<message key="grid.action.unassignUser">Вилучити користувача</message>
+	<message key="grid.action.history">Перегляд історії</message>
+	<message key="grid.action.unconsiderReview">Це рецензування завершено, але ви можете не брати його до уваги</message>
+	<message key="grid.action.enable">Увімкнути</message>
+	<message key="grid.action.bookInfo">Інформація про подання</message>
+	<message key="grid.action.logInAs">Увійти як</message>
+	<message key="grid.action.exportAllUsers"> Експортувати всіх користувачів</message>
+	<message key="grid.users.confirmExportAllUsers">Ви впевнені, що хочете експортувати всіх користувачів?</message>
+	<message key="grid.action.activate">Активувати</message>
+	<message key="grid.action.deactivate">Вимкнути</message>
+	<message key="grid.action.copy">Копіювати</message>
+	<message key="grid.action.preview">Попередній перегляд</message>
+	<message key="grid.action.install">Встановити</message>
+	<message key="grid.action.moreItems">Завантажити більше</message>
+
+	<!--  grid task status -->
+	<message key="grid.task.status.completed">Це завдання завершено</message>
+	<message key="grid.task.status.uploaded">TУ заголовку стовпця вказується, хто завантажив цей файл</message>
+	<message key="grid.task.status.unfinished">Завадання не завершено</message>
+	<message key="grid.task.status.reviewReady">Це рецензування готове. Натисніть значок примітки ліворуч, щоб прочитати його.</message>
+
+	<!-- Common Grid Column Titles -->
+	<message key="grid.columns.actions">Дії</message>
+	<message key="grid.columns.institution">Інтститут</message>
+	<message key="grid.columns.url">URL</message>
+	<message key="grid.columns.auditor">Особа, що здійснила перевірку</message>
+	
+	<!-- Sponsors Grid -->
+	<message key="grid.sponsor.title">Спонсоруюча організація</message>
+	<message key="grid.action.addSponsor">Додати спонсора</message>
+	<message key="grid.action.deleteSponsor">Видалити спонсора</message>
+	<message key="grid.action.editSponsor">Змінити спонсора</message>
+
+	<!-- Series Grid -->
+	<message key="grid.action.addSeries">Додати серію/message>
+	<message key="grid.action.editSeries">Змінити серії</message>
+	<message key="grid.action.deleteSeries">Видалити серії</message>
+
+	<!-- Categories Grid -->
+	<message key="grid.action.addCategory">Додати категорію</message>
+	<message key="grid.action.editCategory">Змінити категорію</message>
+	<message key="grid.action.deleteCategory">Видалити категорію</message>
+
+	<!-- Contributor Grid -->
+	<message key="grid.contributor.title">Джерела підтримки</message>
+	<message key="grid.action.addContributor">Додати учасника (співавора)</message>
+	<message key="grid.action.editContributor">Редагувати учасника (співавора)</message>
+	<message key="grid.action.deleteContributor">Видалити учасника (співавора)</message>
+
+	<!-- Review Forms Grid -->
+	<message key="grid.reviewForm.title">Форма реценцзії</message>
+
+	<!-- Review Form Element Reponse Items Grid -->
+	<message key="grid.reviewFormElement.responseItems">Можливі опції</message>
+
+	<!-- Files -->
+	<message key="grid.noFiles">Немає файлів</message>
+
+	<!-- Library Files -->
+	<message key="grid.libraryFiles.column.files">Файли</message>
+	<message key="grid.libraryFiles.submission.title">Бібліотека подання</message>
+	<message key="grid.libraryFiles.editorial.title">Редакційна бібліотека </message>
+	<message key="grid.libraryFiles.review.title">Переглянути біблітеку</message>
+	<message key="grid.libraryFiles.production.title">Виробнича бібліотека</message>
+	
+	<!-- SubmissionChecklist -->
+	<message key="grid.submissionChecklist.title">Контрольний список подання</message>
+	<message key="grid.submissionChecklist.column.checklistItem">Контрольний елемент</message>
+
+	<!-- Submission Contributors -->
+	<message key="author.users.contributor.name">Ім'я</message>
+	<message key="author.users.contributor.email">Електронна адреса</message>
+	<message key="author.users.contributor.role">Роль</message>
+	<message key="author.users.contributor.principalContact">Основна контактна особа</message>
+	<message key="author.users.contributor.includeInBrowse">У списках перегляду</message>
+
+	<!-- Roles -->
+	<message key="grid.roles.currentRoles">Поточні ролі</message>
+	<message key="grid.roles.add">Створити нову роль</message>
+	
+	<!-- Users -->
+	<message key="grid.user.currentUsers">Поточні користувачі</message>
+	<message key="grid.user.allRoles">Всі ролі</message>
+	<message key="grid.user.add">Додати користувача</message>
+	<message key="grid.user.enroll">Залучити користувача</message>
+	<message key="grid.user.edit">Редагувати користувача</message>
+	<message key="grid.user.email">Електронна адреса</message>
+	<message key="grid.user.enable">Активувати</message>
+	<message key="grid.user.disable">Блокувати</message>
+	<message key="grid.user.disableReason">Причина для блокування користувача</message>
+	<message key="grid.user.enableReason">Причина для активації користувача</message>
+	<message key="grid.user.error">Виникла помилка адміністрування цього користувача. Будь ласка, спробуйте ще раз.</message>
+	<message key="grid.user.errorEmail">Виникла помилка надсилання цього електронного листа. Будь ласка, переконайтесь, що ваша конфігурація електронної пошти працює і / або зверніться до системного адміністратора.</message>
+	<message key="grid.user.cannotAdminister">Ви не маєте достатньо прав для керування цим користувачем. Для того, щоб керувати користувачем, ви повинні бути адміністратором сайту або керувати всіма складовими, до яких залучено цього користувача.</message>
+	<message key="grid.user.authSource">Джерело автентифікації</message>
+	<message key="grid.user.mustProvideName">Будь ласка, спочатку введіть прізвища користувача.</message>
+	<message key="grid.user.generatePassword">Згенерувати пароль Password</message>
+	<message key="grid.user.generatePasswordDescription">Згенерувати випадковий пароль для цього користувача.</message>
+	<message key="grid.user.notifyUser">Повідомити користувача</message>
+	<message key="grid.user.notifyUserDescription">Надіслати користувачу вітального листа.</message>
+	<message key="grid.user.mustChangePassword">Змінити пароль</message>
+	<message key="grid.user.mustChangePasswordDescription">Користувач повинен змінити пароль при наступному вході.</message>
+	<message key="grid.user.mustChangePasswordDescriptionOld">Вимагати, щоб користувач змінив свій пароль при вході в систему наступного разу.</message>
+	<message key="grid.user.moreDetails">Додаткові відомості про користувача</message>
+	<message key="grid.user.lessDetails">Менше відомостей про користувача</message>
+	<message key="grid.user.userDetails">Інформація про користувача</message>
+	<message key="grid.user.userRoles">Ролі користувача</message>
+	<message key="grid.user.userNoRoles">Даний користувач не має жодних ролей.</message>
+	<message key="grid.user.step1">Крок #1: Заповніть інформацію про користувача</message>
+	<message key="grid.user.step2">Крок #2: Додати ролі користувача до {$userFullName}</message>
+	<message key="grid.user.addRoles">Додати роль</message>
+	<message key="grid.user.addRole">Додати роль</message>
+	<message key="grid.user.selectUser">Обрати користувача</message>
+	<message key="grid.user.pleaseSelectUser">Оберіть користувача, будь ласка</message>
+	<message key="grid.user.confirmLogInAs">Авторизуватись в якості цього користувача? Усі дії, які ви виконуєте, будуть віднесені до цього користувача.</message>
+	<message key="grid.user.mergeUsers">Об'єднати користувачів</message>
+	<message key="grid.user.mergeUsers.mergeUser">Об'єднати користувача</message>
+	<message key="grid.user.mergeUsers.mergeIntoUser">Об'єднати до цього користувача</message>
+	<message key="grid.user.mergeUsers.allUsers">Усі залучені користувачі</message>
+	<message key="grid.user.mergeUsers.confirm">Ви впевнені, що хочете об'єднати обліковий запис з ім'ям користувача "{$ oldUsername}" в обліковий запис із ім'ям користувача "{$ newUsername}"? Обліковий запис з ім'ям користувача "{$ oldUsername}" більше не буде існувати. Цю дію не можливо відмінити.</message>
+
+	<!-- Prepared emails -->
+	<message key="grid.preparedEmails.title">Підготовлені шаблони електронної пошти</message>
+	<message key="grid.preparedEmails.currentList">Поточний список </message>
+
+	<!-- Plugins -->
+	<message key="grid.plugin.allCategories">Всі категорії Categories</message>
+	<message key="grid.plugin.disable">Ви впевнені, що бажаєте вимкнути цей плагін?</message>
+
+	<!-- Artwork Files Grid -->
+	<message key="grid.artworkFile.caption">Підпис</message>
+	<message key="grid.artworkFile.credit">Вказівка про охорону авторських прав</message>
+	<message key="grid.artworkFile.copyrightOwner">Власник авторських прав</message>
+	<message key="grid.artworkFile.copyrightContact">Контактна інформація (якщо не автор / видавець)</message>
+	<message key="grid.artworkFile.permissionTerms">Умови надання права доступу</message>
+	<message key="grid.artworkFile.placement">Розміщення у поданні</message>
+
+	<!-- User Group Grid -->
+	<message key="grid.userGroup.assignStage">Призначити етап</message>
+	<message key="grid.userGroup.unassignStage">Скасувати етап</message>
+	<message key="grid.userGroup.allStages">Усі етапи робочого процесу</message>
+	<message key="grid.userGroup.filter.listRoles">Список ролей, призначених для</message>
+	<message key="grid.userGroup.cantRemoveDefaultUserGroup">Роль {$ userGroupName} є стандартною і не може бути видалена.</message>
+	<message key="grid.userGroup.cantRemoveUserGroup">Неможливо видалити роль {$ userGroupName}. На даний момент користувач (-і) {$ usersCount} / присвоєно.</message>
+	<message key="grid.userGroup.removed">{$userGroupName} роль видалено.</message>
+	<message key="grid.userGroup.assignedStage">Роль {$ userGroupName}, присвоєна етапу {$ stageName}</message>
+	<message key="grid.userGroup.unassignedStage">Роль {$ userGroupName} не призначена з етапу {$ stageName}.</message>
+
+	<!-- Submission list grids -->
+	<message key="grid.submission.itemTitle">Автор; Назва</message>
+	<messag
+	<!-- Navigation Menus -->
+	<message key="grid.action.addNavigationMenu">Додати меню</message>
+	<message key="grid.action.addNavigationMenuItem">Додати пункт</message>
+	<message key="grid.navigationMenus.navigationMenuItems.noneExist">Немає пунктів меню навігації</message>
+	<message key="grid.navigationMenus.navigationMenu.noneExist">Немає навігаційних меню</message>
+	<message key="grid.navigationMenus.navigationMenu.selectType">Оберіть тип...</message>
 </locale>
